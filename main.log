@@ -1,0 +1,947 @@
+[2025-04-07 13:28:44 +0200] [85210] [INFO] Starting gunicorn 23.0.0
+[2025-04-07 13:28:44 +0200] [85210] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:28:44 +0200] [85210] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:28:45 +0200] [85210] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:28:45 +0200] [85210] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:28:46 +0200] [85210] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:28:46 +0200] [85210] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:28:47 +0200] [85210] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:28:47 +0200] [85210] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:28:48 +0200] [85210] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:28:48 +0200] [85210] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:28:49 +0200] [85210] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2025-04-07 13:31:31 +0200] [85454] [INFO] Starting gunicorn 23.0.0
+[2025-04-07 13:31:31 +0200] [85454] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:31:31 +0200] [85454] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:31:32 +0200] [85454] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:31:32 +0200] [85454] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:31:33 +0200] [85454] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:31:33 +0200] [85454] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:31:34 +0200] [85454] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:31:34 +0200] [85454] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:31:35 +0200] [85454] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:31:35 +0200] [85454] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:31:36 +0200] [85454] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2025-04-07 13:31:44 +0200] [85508] [INFO] Starting gunicorn 23.0.0
+[2025-04-07 13:31:44 +0200] [85508] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:31:44 +0200] [85508] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:31:45 +0200] [85508] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:31:45 +0200] [85508] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:31:46 +0200] [85508] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:31:46 +0200] [85508] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:31:47 +0200] [85508] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:31:47 +0200] [85508] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:31:48 +0200] [85508] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2025-04-07 13:31:48 +0200] [85508] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2025-04-07 13:31:49 +0200] [85508] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2025-04-07 13:32:08 +0200] [85571] [INFO] Starting gunicorn 23.0.0
+[2025-04-07 13:32:08 +0200] [85571] [INFO] Listening at: http://0.0.0.0:5000 (85571)
+[2025-04-07 13:32:08 +0200] [85571] [INFO] Using worker: sync
+[2025-04-07 13:32:08 +0200] [85574] [INFO] Booting worker with pid: 85574
+[2025-04-07 13:32:19 +0200] [85571] [INFO] Handling signal: int
+[2025-04-07 13:32:19 +0200] [85574] [INFO] Worker exiting (pid: 85574)
+[2025-04-07 13:32:19 +0200] [85571] [INFO] Shutting down: Master
+[2025-04-07 13:33:50 +0200] [85904] [INFO] Starting gunicorn 23.0.0
+[2025-04-07 13:33:50 +0200] [85904] [INFO] Listening at: http://0.0.0.0:5000 (85904)
+[2025-04-07 13:33:50 +0200] [85904] [INFO] Using worker: sync
+[2025-04-07 13:33:50 +0200] [85905] [INFO] Booting worker with pid: 85905
+[2025-04-10 16:57:56 +0200] [8503] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 16:57:56 +0200] [8503] [INFO] Listening at: http://0.0.0.0:5000 (8503)
+[2025-04-10 16:57:56 +0200] [8503] [INFO] Using worker: sync
+[2025-04-10 16:57:56 +0200] [8505] [INFO] Booting worker with pid: 8505
+[2025-04-10 16:58:10 +0200] [8503] [INFO] Handling signal: int
+[2025-04-10 16:58:10 +0200] [8505] [INFO] Worker exiting (pid: 8505)
+[2025-04-10 16:58:11 +0200] [8503] [INFO] Shutting down: Master
+[2025-04-10 16:58:46 +0200] [8647] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 16:58:46 +0200] [8647] [INFO] Listening at: http://0.0.0.0:5000 (8647)
+[2025-04-10 16:58:46 +0200] [8647] [INFO] Using worker: sync
+[2025-04-10 16:58:46 +0200] [8649] [INFO] Booting worker with pid: 8649
+[2025-04-10 16:58:53 +0200] [8647] [INFO] Handling signal: int
+[2025-04-10 16:58:53 +0200] [8649] [INFO] Worker exiting (pid: 8649)
+[2025-04-10 16:58:54 +0200] [8647] [INFO] Shutting down: Master
+[2025-04-10 16:59:11 +0200] [8732] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 16:59:11 +0200] [8732] [INFO] Listening at: http://0.0.0.0:5000 (8732)
+[2025-04-10 16:59:11 +0200] [8732] [INFO] Using worker: sync
+[2025-04-10 16:59:11 +0200] [8734] [INFO] Booting worker with pid: 8734
+[2025-04-10 16:59:20 +0200] [8732] [INFO] Handling signal: int
+[2025-04-10 16:59:20 +0200] [8734] [INFO] Worker exiting (pid: 8734)
+[2025-04-10 16:59:20 +0200] [8732] [INFO] Shutting down: Master
+[2025-04-10 17:01:49 +0200] [8937] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:01:49 +0200] [8937] [INFO] Listening at: http://0.0.0.0:5000 (8937)
+[2025-04-10 17:01:49 +0200] [8937] [INFO] Using worker: sync
+[2025-04-10 17:01:49 +0200] [8938] [INFO] Booting worker with pid: 8938
+[2025-04-10 17:01:49 +0200] [8938] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/gunicorn/arbiter.py", line 608, in spawn_worker
+    worker.init_process()
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/gunicorn/workers/base.py", line 135, in init_process
+    self.load_wsgi()
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/gunicorn/workers/base.py", line 147, in load_wsgi
+    self.wsgi = self.app.wsgi()
+                ^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/gunicorn/app/base.py", line 66, in wsgi
+    self.callable = self.load()
+                    ^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 57, in load
+    return self.load_wsgiapp()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 47, in load_wsgiapp
+    return util.import_app(self.app_uri)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/gunicorn/util.py", line 370, in import_app
+    mod = importlib.import_module(module)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 28, in <module>
+    @app.route('prueba/')
+     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/sansio/scaffold.py", line 362, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/sansio/scaffold.py", line 47, in wrapper_func
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/sansio/app.py", line 650, in add_url_rule
+    rule_obj = self.url_rule_class(rule, methods=methods, **options)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/werkzeug/routing/rules.py", line 475, in __init__
+    raise ValueError(f"URL rule '{string}' must start with a slash.")
+ValueError: URL rule 'prueba/' must start with a slash.
+[2025-04-10 17:01:49 +0200] [8938] [INFO] Worker exiting (pid: 8938)
+[2025-04-10 17:01:50 +0200] [8937] [ERROR] Worker (pid:8938) exited with code 3
+[2025-04-10 17:01:50 +0200] [8937] [ERROR] Shutting down: Master
+[2025-04-10 17:01:50 +0200] [8937] [ERROR] Reason: Worker failed to boot.
+[2025-04-10 17:02:37 +0200] [9091] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:02:37 +0200] [9091] [INFO] Listening at: http://0.0.0.0:5000 (9091)
+[2025-04-10 17:02:37 +0200] [9091] [INFO] Using worker: sync
+[2025-04-10 17:02:37 +0200] [9092] [INFO] Booting worker with pid: 9092
+[2025-04-10 17:03:16 +0200] [9091] [INFO] Handling signal: int
+[2025-04-10 17:03:16 +0200] [9092] [INFO] Worker exiting (pid: 9092)
+[2025-04-10 17:03:16 +0200] [9091] [INFO] Shutting down: Master
+[2025-04-10 17:04:10 +0200] [9352] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:04:10 +0200] [9352] [INFO] Listening at: http://0.0.0.0:5000 (9352)
+[2025-04-10 17:04:10 +0200] [9352] [INFO] Using worker: sync
+[2025-04-10 17:04:10 +0200] [9353] [INFO] Booting worker with pid: 9353
+[2025-04-10 17:04:20,340] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 12, in home
+    return render_template('index.html', nombre="Mundo")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2025-04-10 17:04:21,769] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 12, in home
+    return render_template('index.html', nombre="Mundo")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2025-04-10 17:04:22,421] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 12, in home
+    return render_template('index.html', nombre="Mundo")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2025-04-10 17:04:22,574] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 12, in home
+    return render_template('index.html', nombre="Mundo")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2025-04-10 17:04:22,755] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 12, in home
+    return render_template('index.html', nombre="Mundo")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2025-04-10 17:04:22,919] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 12, in home
+    return render_template('index.html', nombre="Mundo")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2025-04-10 17:04:23,101] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 12, in home
+    return render_template('index.html', nombre="Mundo")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2025-04-10 17:04:28,202] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 12, in home
+    return render_template('index.html', nombre="Mundo")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2025-04-10 17:04:36 +0200] [9352] [INFO] Handling signal: int
+[2025-04-10 17:04:36 +0200] [9353] [INFO] Worker exiting (pid: 9353)
+[2025-04-10 17:04:37 +0200] [9352] [INFO] Shutting down: Master
+[2025-04-10 17:05:33 +0200] [9534] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:05:33 +0200] [9534] [INFO] Listening at: http://0.0.0.0:5000 (9534)
+[2025-04-10 17:05:33 +0200] [9534] [INFO] Using worker: sync
+[2025-04-10 17:05:33 +0200] [9535] [INFO] Booting worker with pid: 9535
+[2025-04-10 17:05:40,642] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 11, in home
+    return render_template('index.html', nombre="Mundo")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2025-04-10 17:05:42,142] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 11, in home
+    return render_template('index.html', nombre="Mundo")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2025-04-10 17:05:42,844] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 11, in home
+    return render_template('index.html', nombre="Mundo")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2025-04-10 17:05:43,354] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 11, in home
+    return render_template('index.html', nombre="Mundo")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2025-04-10 17:05:59 +0200] [9534] [INFO] Handling signal: int
+[2025-04-10 17:05:59 +0200] [9535] [INFO] Worker exiting (pid: 9535)
+[2025-04-10 17:06:00 +0200] [9534] [INFO] Shutting down: Master
+[2025-04-10 17:08:11 +0200] [9742] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:08:11 +0200] [9742] [INFO] Listening at: http://0.0.0.0:5000 (9742)
+[2025-04-10 17:08:11 +0200] [9742] [INFO] Using worker: sync
+[2025-04-10 17:08:11 +0200] [9743] [INFO] Booting worker with pid: 9743
+[2025-04-10 17:08:30 +0200] [9742] [INFO] Handling signal: int
+[2025-04-10 17:08:30 +0200] [9743] [INFO] Worker exiting (pid: 9743)
+[2025-04-10 17:08:31 +0200] [9742] [INFO] Shutting down: Master
+[2025-04-10 17:09:07 +0200] [9860] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:09:07 +0200] [9860] [INFO] Listening at: http://0.0.0.0:5000 (9860)
+[2025-04-10 17:09:07 +0200] [9860] [INFO] Using worker: sync
+[2025-04-10 17:09:07 +0200] [9861] [INFO] Booting worker with pid: 9861
+[2025-04-10 17:09:28 +0200] [9860] [INFO] Handling signal: int
+[2025-04-10 17:09:29 +0200] [9861] [INFO] Worker exiting (pid: 9861)
+[2025-04-10 17:09:29 +0200] [9860] [INFO] Shutting down: Master
+[2025-04-10 17:13:12 +0200] [10195] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:13:12 +0200] [10195] [INFO] Listening at: http://0.0.0.0:5000 (10195)
+[2025-04-10 17:13:12 +0200] [10195] [INFO] Using worker: sync
+[2025-04-10 17:13:12 +0200] [10196] [INFO] Booting worker with pid: 10196
+[2025-04-10 17:13:13 +0200] [10195] [INFO] Handling signal: int
+[2025-04-10 17:13:13 +0200] [10196] [INFO] Worker exiting (pid: 10196)
+[2025-04-10 17:13:13 +0200] [10195] [INFO] Shutting down: Master
+[2025-04-10 17:14:08 +0200] [10327] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:14:08 +0200] [10327] [INFO] Listening at: http://0.0.0.0:5000 (10327)
+[2025-04-10 17:14:08 +0200] [10327] [INFO] Using worker: sync
+[2025-04-10 17:14:08 +0200] [10329] [INFO] Booting worker with pid: 10329
+[2025-04-10 17:14:31 +0200] [10327] [INFO] Handling signal: int
+[2025-04-10 17:14:31 +0200] [10329] [INFO] Worker exiting (pid: 10329)
+[2025-04-10 17:14:31 +0200] [10327] [INFO] Shutting down: Master
+[2025-04-10 17:19:33 +0200] [10680] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:19:33 +0200] [10680] [INFO] Listening at: http://0.0.0.0:5000 (10680)
+[2025-04-10 17:19:33 +0200] [10680] [INFO] Using worker: sync
+[2025-04-10 17:19:33 +0200] [10681] [INFO] Booting worker with pid: 10681
+[2025-04-10 17:19:54 +0200] [10680] [INFO] Handling signal: int
+[2025-04-10 17:19:54 +0200] [10681] [INFO] Worker exiting (pid: 10681)
+[2025-04-10 17:19:54 +0200] [10680] [INFO] Shutting down: Master
+[2025-04-10 17:20:10 +0200] [10770] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:20:10 +0200] [10770] [INFO] Listening at: http://0.0.0.0:5000 (10770)
+[2025-04-10 17:20:10 +0200] [10770] [INFO] Using worker: sync
+[2025-04-10 17:20:10 +0200] [10773] [INFO] Booting worker with pid: 10773
+[2025-04-10 17:20:25 +0200] [10770] [INFO] Handling signal: int
+[2025-04-10 17:20:25 +0200] [10773] [INFO] Worker exiting (pid: 10773)
+[2025-04-10 17:20:25 +0200] [10770] [INFO] Shutting down: Master
+[2025-04-10 17:21:46 +0200] [10892] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:21:46 +0200] [10892] [INFO] Listening at: http://0.0.0.0:5000 (10892)
+[2025-04-10 17:21:46 +0200] [10892] [INFO] Using worker: sync
+[2025-04-10 17:21:46 +0200] [10893] [INFO] Booting worker with pid: 10893
+[2025-04-10 17:21:49 +0200] [10892] [INFO] Handling signal: int
+[2025-04-10 17:21:49 +0200] [10893] [INFO] Worker exiting (pid: 10893)
+[2025-04-10 17:21:50 +0200] [10892] [INFO] Shutting down: Master
+[2025-04-10 17:22:26 +0200] [10976] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:22:26 +0200] [10976] [INFO] Listening at: http://0.0.0.0:5000 (10976)
+[2025-04-10 17:22:26 +0200] [10976] [INFO] Using worker: sync
+[2025-04-10 17:22:26 +0200] [10978] [INFO] Booting worker with pid: 10978
+[2025-04-10 17:23:19 +0200] [10976] [INFO] Handling signal: int
+[2025-04-10 17:23:19 +0200] [10978] [INFO] Worker exiting (pid: 10978)
+[2025-04-10 17:23:20 +0200] [10976] [INFO] Shutting down: Master
+[2025-04-10 17:26:11 +0200] [11243] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:26:11 +0200] [11243] [INFO] Listening at: http://0.0.0.0:5000 (11243)
+[2025-04-10 17:26:11 +0200] [11243] [INFO] Using worker: sync
+[2025-04-10 17:26:11 +0200] [11244] [INFO] Booting worker with pid: 11244
+[2025-04-10 17:26:17 +0200] [11243] [INFO] Handling signal: int
+[2025-04-10 17:26:17 +0200] [11244] [INFO] Worker exiting (pid: 11244)
+[2025-04-10 17:26:17 +0200] [11243] [INFO] Shutting down: Master
+[2025-04-10 17:26:35 +0200] [11309] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:26:35 +0200] [11309] [INFO] Listening at: http://0.0.0.0:5000 (11309)
+[2025-04-10 17:26:35 +0200] [11309] [INFO] Using worker: sync
+[2025-04-10 17:26:35 +0200] [11310] [INFO] Booting worker with pid: 11310
+[2025-04-10 17:26:58 +0200] [11310] [INFO] Worker exiting (pid: 11310)
+[2025-04-10 17:26:58 +0200] [11309] [INFO] Handling signal: term
+[2025-04-10 17:26:59 +0200] [11309] [INFO] Shutting down: Master
+[2025-04-10 17:29:04 +0200] [11450] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:29:04 +0200] [11450] [INFO] Listening at: http://0.0.0.0:5000 (11450)
+[2025-04-10 17:29:04 +0200] [11450] [INFO] Using worker: sync
+[2025-04-10 17:29:04 +0200] [11451] [INFO] Booting worker with pid: 11451
+[2025-04-10 17:29:06,524] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 14, in main
+    return render_template('index.html', datos=datos)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 771, in compile
+    self.handle_exception(source=source_hint)
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/juan/Programacion/Python/Flask/FAB/templates/index.html", line 11, in template
+    <p> {{ datos[0] }} </p>
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'endfor' or 'else'. The innermost block that needs to be closed is 'for'.
+[2025-04-10 17:29:07,521] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 14, in main
+    return render_template('index.html', datos=datos)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 771, in compile
+    self.handle_exception(source=source_hint)
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/juan/Programacion/Python/Flask/FAB/templates/index.html", line 11, in template
+    <p> {{ datos[0] }} </p>
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'endfor' or 'else'. The innermost block that needs to be closed is 'for'.
+[2025-04-10 17:29:07,964] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 14, in main
+    return render_template('index.html', datos=datos)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 771, in compile
+    self.handle_exception(source=source_hint)
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/juan/Programacion/Python/Flask/FAB/templates/index.html", line 11, in template
+    <p> {{ datos[0] }} </p>
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'endfor' or 'else'. The innermost block that needs to be closed is 'for'.
+[2025-04-10 17:29:08 +0200] [11450] [INFO] Handling signal: int
+[2025-04-10 17:29:08 +0200] [11451] [INFO] Worker exiting (pid: 11451)
+[2025-04-10 17:29:09 +0200] [11450] [INFO] Shutting down: Master
+[2025-04-10 17:50:09 +0200] [12144] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:50:09 +0200] [12144] [INFO] Listening at: http://0.0.0.0:5000 (12144)
+[2025-04-10 17:50:09 +0200] [12144] [INFO] Using worker: sync
+[2025-04-10 17:50:09 +0200] [12146] [INFO] Booting worker with pid: 12146
+[2025-04-10 17:50:54 +0200] [12144] [INFO] Handling signal: int
+[2025-04-10 17:50:54 +0200] [12146] [INFO] Worker exiting (pid: 12146)
+[2025-04-10 17:50:54 +0200] [12144] [INFO] Shutting down: Master
+[2025-04-10 17:54:47 +0200] [12432] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:54:47 +0200] [12432] [INFO] Listening at: http://0.0.0.0:5000 (12432)
+[2025-04-10 17:54:47 +0200] [12432] [INFO] Using worker: sync
+[2025-04-10 17:54:47 +0200] [12433] [INFO] Booting worker with pid: 12433
+[2025-04-10 17:55:02,294] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 14, in main
+    return render_template('index.html', datos=datos)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 771, in compile
+    self.handle_exception(source=source_hint)
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/juan/Programacion/Python/Flask/FAB/templates/index.html", line 14, in template
+    {% endfor %}
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'endfor' or 'else'. The innermost block that needs to be closed is 'for'.
+[2025-04-10 17:55:06 +0200] [12432] [INFO] Handling signal: int
+[2025-04-10 17:55:06 +0200] [12433] [INFO] Worker exiting (pid: 12433)
+[2025-04-10 17:55:07 +0200] [12432] [INFO] Shutting down: Master
+[2025-04-10 17:55:39 +0200] [12526] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:55:39 +0200] [12526] [INFO] Listening at: http://0.0.0.0:5000 (12526)
+[2025-04-10 17:55:39 +0200] [12526] [INFO] Using worker: sync
+[2025-04-10 17:55:39 +0200] [12528] [INFO] Booting worker with pid: 12528
+[2025-04-10 17:56:15 +0200] [12526] [INFO] Handling signal: int
+[2025-04-10 17:56:15 +0200] [12528] [INFO] Worker exiting (pid: 12528)
+[2025-04-10 17:56:15 +0200] [12526] [INFO] Shutting down: Master
+[2025-04-10 17:56:28 +0200] [12604] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 17:56:28 +0200] [12604] [INFO] Listening at: http://0.0.0.0:5000 (12604)
+[2025-04-10 17:56:28 +0200] [12604] [INFO] Using worker: sync
+[2025-04-10 17:56:28 +0200] [12606] [INFO] Booting worker with pid: 12606
+[2025-04-10 17:56:35 +0200] [12604] [INFO] Handling signal: int
+[2025-04-10 17:56:35 +0200] [12606] [INFO] Worker exiting (pid: 12606)
+[2025-04-10 17:56:35 +0200] [12604] [INFO] Shutting down: Master
+[2025-04-10 18:02:19 +0200] [13059] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 18:02:19 +0200] [13059] [INFO] Listening at: http://0.0.0.0:5000 (13059)
+[2025-04-10 18:02:19 +0200] [13059] [INFO] Using worker: sync
+[2025-04-10 18:02:19 +0200] [13060] [INFO] Booting worker with pid: 13060
+[2025-04-10 18:03:05,820] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/app.py", line 14, in main
+    return render_template('index.html', datos=datos)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 771, in compile
+    self.handle_exception(source=source_hint)
+  File "/home/juan/Programacion/Python/Flask/FAB/lib64/python3.12/site-packages/jinja2/environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/juan/Programacion/Python/Flask/FAB/templates/index.html", line 10, in template
+    <p> {% for cuarto, res in datos.[0].items() %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.TemplateSyntaxError: expected name or number
+[2025-04-10 18:03:07 +0200] [13059] [INFO] Handling signal: int
+[2025-04-10 18:03:08 +0200] [13060] [INFO] Worker exiting (pid: 13060)
+[2025-04-10 18:03:08 +0200] [13059] [INFO] Shutting down: Master
+[2025-04-10 18:05:23 +0200] [13282] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 18:05:23 +0200] [13282] [INFO] Listening at: http://0.0.0.0:5000 (13282)
+[2025-04-10 18:05:23 +0200] [13282] [INFO] Using worker: sync
+[2025-04-10 18:05:23 +0200] [13283] [INFO] Booting worker with pid: 13283
+[2025-04-10 18:05:30 +0200] [13282] [INFO] Handling signal: int
+[2025-04-10 18:05:31 +0200] [13283] [INFO] Worker exiting (pid: 13283)
+[2025-04-10 18:05:31 +0200] [13282] [INFO] Shutting down: Master
+[2025-04-10 18:06:12 +0200] [13365] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 18:06:12 +0200] [13365] [INFO] Listening at: http://0.0.0.0:5000 (13365)
+[2025-04-10 18:06:12 +0200] [13365] [INFO] Using worker: sync
+[2025-04-10 18:06:12 +0200] [13366] [INFO] Booting worker with pid: 13366
+[2025-04-10 18:06:44 +0200] [13365] [INFO] Handling signal: int
+[2025-04-10 18:06:44 +0200] [13366] [INFO] Worker exiting (pid: 13366)
+[2025-04-10 18:06:45 +0200] [13365] [INFO] Shutting down: Master
+[2025-04-10 18:07:07 +0200] [13444] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 18:07:07 +0200] [13444] [INFO] Listening at: http://0.0.0.0:5000 (13444)
+[2025-04-10 18:07:07 +0200] [13444] [INFO] Using worker: sync
+[2025-04-10 18:07:07 +0200] [13445] [INFO] Booting worker with pid: 13445
+[2025-04-10 18:07:16 +0200] [13444] [INFO] Handling signal: int
+[2025-04-10 18:07:17 +0200] [13445] [INFO] Worker exiting (pid: 13445)
+[2025-04-10 18:07:17 +0200] [13444] [INFO] Shutting down: Master
+[2025-04-10 18:07:43 +0200] [13519] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 18:07:43 +0200] [13519] [INFO] Listening at: http://0.0.0.0:5000 (13519)
+[2025-04-10 18:07:43 +0200] [13519] [INFO] Using worker: sync
+[2025-04-10 18:07:43 +0200] [13520] [INFO] Booting worker with pid: 13520
+[2025-04-10 18:07:55 +0200] [13519] [INFO] Handling signal: int
+[2025-04-10 18:07:55 +0200] [13520] [INFO] Worker exiting (pid: 13520)
+[2025-04-10 18:07:55 +0200] [13519] [INFO] Shutting down: Master
+[2025-04-10 18:10:21 +0200] [13681] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 18:10:21 +0200] [13681] [INFO] Listening at: http://0.0.0.0:5000 (13681)
+[2025-04-10 18:10:21 +0200] [13681] [INFO] Using worker: sync
+[2025-04-10 18:10:21 +0200] [13683] [INFO] Booting worker with pid: 13683
+[2025-04-10 18:10:29 +0200] [13681] [INFO] Handling signal: int
+[2025-04-10 18:10:29 +0200] [13683] [INFO] Worker exiting (pid: 13683)
+[2025-04-10 18:10:29 +0200] [13681] [INFO] Shutting down: Master
+[2025-04-10 18:10:55 +0200] [13752] [INFO] Starting gunicorn 23.0.0
+[2025-04-10 18:10:55 +0200] [13752] [INFO] Listening at: http://0.0.0.0:5000 (13752)
+[2025-04-10 18:10:55 +0200] [13752] [INFO] Using worker: sync
+[2025-04-10 18:10:55 +0200] [13753] [INFO] Booting worker with pid: 13753
+[2025-04-10 18:11:06 +0200] [13752] [INFO] Handling signal: int
+[2025-04-10 18:11:06 +0200] [13753] [INFO] Worker exiting (pid: 13753)
+[2025-04-10 18:11:06 +0200] [13752] [INFO] Shutting down: Master

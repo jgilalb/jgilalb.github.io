@@ -1,0 +1,27 @@
+#!/bin/ipython3
+
+import fab,sys
+from flask import Flask
+from config import FILE
+    
+app = Flask(__name__)
+@app.route('/')
+
+def main():
+    tanteo = open(FILE,'r')
+    datos = fab.tanper(tanteo)
+    tanteo.close()
+
+    output = ""
+    finRes = datos[0]
+    nomEq = datos[1]
+
+    for cuar, res in datos[0].items():
+        output += f"{cuar}º Cuarto &emsp;"
+        for equipo, resultado in res.items():
+            output += f"{nomEq[equipo]}:{resultado}&emsp;"
+        output += "</br>"
+    return output
+
+if __name__ == '__main__':
+    app.run('0.0.0.0', 5000, debug = True)
